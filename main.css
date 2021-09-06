@@ -1,7 +1,6 @@
 *{
     font-family:sans-serif;
     text-align: center;  
-    background: -prefix-linear-gradient(top, #D4ECDD, #112031);
-    background: linear-gradient(to bottom, #D4ECDD, #112031);
+    background: linear-gradient( #D4ECDD, #112031);
 }
 
