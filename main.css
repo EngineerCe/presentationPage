@@ -9,11 +9,11 @@ H1,H2{
 }
 section{
     width: 100%;
-    height: 100vh;
+    height: 95vh;
 }
 body{
     
-    background: linear-gradient(#FFB319,#FFE194,#E8F6EF,#B8DFD8);
+    background: linear-gradient(#084594,#085E7D,#008E89,#FFD32D);
     background-repeat: no-repeat;
     background-size:cover;
     position:relative;
